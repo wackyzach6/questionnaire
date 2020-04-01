@@ -1,0 +1,72 @@
+body {
+    background-color:#2C2F33 ;
+}
+#questionCat {
+    border-style: solid;
+    border-width: 3px;
+    width:1840px;
+    height:200px;
+    background-color: #48ff0080;
+}
+#question {
+    border-style: solid;
+    border-width: 3px;
+    width:1840px;
+    height:200px;
+    background-color: #a9a9a9b3;
+}
+
+#answersBox {
+    /* border-style: solid;
+    border-width: 3px; */
+    width:1840px;
+    height:200px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+#answer1 {
+    border-width: 3px;
+    /* border-bottom: solid;
+    border-right: solid; */
+    border-style: solid;
+    width:736px;
+    height:67px;
+    background-color: #a9a9a9b3
+}
+#answer2 {
+    border-width: 3px;
+    /* border-bottom: solid;
+    border-right: solid; */
+    border-style: solid;
+    width:736px;
+    height:67px;
+    background-color: #a9a9a9b3
+}
+#answer3 {
+    border-width: 3px;
+    /* border-bottom: solid;
+    border-right: solid; */
+    border-style: solid;
+    width:736px;
+    height:67px;
+    background-color: #a9a9a9b3
+}
+#answer4 {
+    border-width: 3px;
+    /* border-bottom: solid;
+    border-right: solid; */
+    border-style: solid;
+    width:736px;
+    height:67px;
+    background-color: #a9a9a9b3
+}
+
+#nextQ {
+    border-style: solid;
+    border-width: 3px;
+    width:1840px;
+    height:200px;
+    background-color: #a9a9a9b3;
+}
